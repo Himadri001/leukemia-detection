@@ -2,6 +2,7 @@ from scipy.misc import imread, imshow
 from scipy.ndimage import label
 from scipy import asarray, ones, vstack, hstack
 from sys import stdout
+#i m working parallaly
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
